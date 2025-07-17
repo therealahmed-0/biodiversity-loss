@@ -70,6 +70,18 @@
     <br>
     <span class="text-2xl text-white p-2">This graph shows the amount of food shortage around the world and where there is more biodiversity loss there is more food shortage.</span>
 </div>
+<div class="w-screen h-full flex justify-center items-center overflow-hidden bg-slate-950 snap-center">
+   <a href="/main">
+        <button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm p-2.5 text-center inline-flex items-center me-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+        <span class="text-lg p-3">
+            Back to main
+        </span>
+        <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+        </svg>
+    </button>
+</a>
+</div>
 </main>
 <style>
   .strongtext {
